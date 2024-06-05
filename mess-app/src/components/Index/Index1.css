@@ -1,0 +1,53 @@
+.img_deg
+  {
+    float: right;
+    height: 550px;
+    /* background-color:#bacddb ; */
+  }
+
+  .pos_cen{
+    background-color:#f3e8ff ;
+    height: 550px;
+  }
+  /* .pos_cen{
+    position: absolute;
+    width: 100%;
+    left: 15%;
+    top:30%;
+    background-color: aquamarine;
+    padding: 30px;
+  } */
+
+  .pos_cen h1{
+    font-weight: 200;
+    color: rgb(132, 20, 20);
+    font-size: max(4vw,20px);
+    padding-left: 10%;
+  }
+  .pos_cen h3{
+    font-weight: 500;
+    color: rgb(34, 2, 2);
+    font-size: max(3vw,20px);
+    padding-left: 10%;
+  }
+
+  .pos_cen p{
+    font-weight: 200;
+    color: rgb(34, 2, 2);
+    font-size: max(2vw,10px);
+    padding-left: 10%;
+    
+  }
+
+.pos_cen h2{
+  font-weight: 500;
+  color: rgb(34, 2, 2);
+  font-size:max(2vw,20px) ;
+  font-style:unset ;
+  padding-left: 10%;
+}
+
+.icon{
+  color: brown;
+  position: relative;
+}
