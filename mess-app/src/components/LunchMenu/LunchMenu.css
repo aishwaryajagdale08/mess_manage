@@ -1,0 +1,36 @@
+.lunch-display {
+    margin-top: 30px;
+}
+
+.lunch-display h2 {
+    font-size: max(2vw, 24px);
+    font-weight: 600;
+    color: red;
+    padding-left: 45%;
+    margin-top: -2%;
+}
+
+.lunch-display-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    margin-top: 30px;
+    gap: 60px;
+    row-gap: 50px;
+}
+
+/* Uncomment and adjust this if needed */
+/*
+.food-item-image {
+    display: flex;
+    height: 250px;
+    width: 100%;
+}
+*/
+.lunch-display h2 {
+    font-size: max(2vw, 24px);
+    font-weight: 600;
+    color: red;
+    padding-left: 45%;
+    margin-top: -2%;
+    margin-right: -30%; /* Adjusted to margin */
+}

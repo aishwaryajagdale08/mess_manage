@@ -1,0 +1,32 @@
+.food-display{
+    margin-top: 30px;
+    
+
+}
+.food-display h2{
+    font-size: max(2vw,24px);
+    font-weight: 600;
+    padding-top: 3%;
+    margin-left:-7%;
+    color: #283d4e;
+}
+.food-display-list{
+    padding-top: 2%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(290px,1fr));
+    margin-top: 30px;
+    gap: 60px;
+    row-gap: 50px;
+    
+
+}
+.food-display h2{
+    padding-left: 45%;
+    margin-top: -2%;
+    
+}
+/* .food-item-image{
+    display: flex;
+    height: 250px;
+    width: 100%;
+} */

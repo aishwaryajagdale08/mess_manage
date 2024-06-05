@@ -1,0 +1,16 @@
+.navbar
+{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 3%;
+    cursor: pointer;
+    color: tomato;
+
+}
+.navbar .logo_name span{
+    height: 150%;
+    color: green;
+    
+}
